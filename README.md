@@ -1,0 +1,1 @@
+# Sistem-Pakar-Penyakit-Sapi-Metode-Teorema-Bayes-Laravel-
